@@ -202,21 +202,46 @@ Please install or have installed the following:
       <li><b>artifacts:</b> contains all the smart contract data and addresses transfered earlier </li>
       <li><b>NetworksMap:</b> a json file for some known blockchains names & chain id </li> 
     </ul>
+    
+## Modules
+### Client-side components:
+    *Web3-enabled browser - MetaMask
+    *Front-end user interface (UI) with React
+    *IPFS client libraries
+### Server-side components:
+    *Node.js server
+    *IPFS node
+    *Smart contract on Polygon Testnet
+### Third-party services:
+     *Ethereum blockchain
+     *IPFS network - Web3 Storage
+
    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Preview
 1.Home Page
+
 ![Screenshot 2023-05-11 144139](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/b167cb80-d550-4e94-ad8b-6ab6c60ee89b)
+
 2. After Connecting to the MetaMask Wallet
+
 ![Screenshot 2023-05-11 144058](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/7aa72d2b-83dc-4dc4-a06e-a89e9bf557f4)
+
 3.Account or Wallet Details
+
 ![Screenshot 2023-05-11 144125](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/4b0cc6f6-3c4c-40bc-8a8f-239350d0523f)
+
 4. File is Selected for Upload
+
 ![Screenshot 2023-05-11 144237](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/21420a28-fd67-4b1a-8588-01597b6cf097)
+
 5. Transaction Initiated
+
 ![Screenshot 2023-05-11 144256](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/27e2f52f-231b-4f60-8dd3-3efbdf74f712)
+
 6. Transaction Confirmed, File is Uploaded Successfully
+
 ![Screenshot 2023-05-11 144308](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/25d9f5ff-fc2c-4b7a-ab1b-cb7a8f708469)
 
 ## Resources
@@ -226,7 +251,7 @@ To learn about Web3, React, Smart Contract and Brownie:
   * [Web3 FAQ by Fireship.io](https://www.youtube.com/watch?v=wHTcrmhskto&t=2s&pp=ygUTZmlyZXNoaXAgYmxvY2tjaGFpbg%3D%3D)
   * [Netninja React Course](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
   * [Patrick Collins FreeCodeCamp Complete Course](https://youtu.be/M576WGiDBdQ)
-  * ["Getting Started with Brownie"](https://iamdefinitelyahuman.medium.com/getting-started-with-brownie-part-1-9b2181f4cb99) is a good tutorial to help you familiarize yourself with Brownie.
+  * ["Getting Started with Brownie"](https://iamdefinitelyahuman.medium.com/getting-started-with-brownie-part-1-9b2181f4cb99)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
