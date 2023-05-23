@@ -205,16 +205,16 @@ Please install or have installed the following:
     
 ## Modules
 ### Client-side components:
-    *Web3-enabled browser - MetaMask
-    *Front-end user interface (UI) with React
-    *IPFS client libraries
+    Web3-enabled browser - MetaMask
+    Front-end user interface (UI) with React
+    IPFS client libraries
 ### Server-side components:
-    *Node.js server
-    *IPFS node
-    *Smart contract on Polygon Testnet
+    Node.js server
+    IPFS node
+    Smart contract on Polygon Testnet
 ### Third-party services:
-     *Ethereum blockchain
-     *IPFS network - Web3 Storage
+    Ethereum blockchain
+    IPFS network - Web3 Storage
 
    
 <p align="right">(<a href="#top">back to top</a>)</p>
