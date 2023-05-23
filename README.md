@@ -9,7 +9,7 @@ features of the blockchain network, The decentralized nature of the IPFS network
 providing redundancy and reducing the risk of data loss, Furthermore, since the data is encrypted, only authorized users with the IPFS hash can access it,
 providing an additional layer of security
 
-## Table of Contents
+## Index
 **1. Softwares Used**
 **2. Prerequisties**
 **3. Installation**
@@ -220,23 +220,23 @@ Please install or have installed the following:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Preview
-1.Home Page
+### 1.Home Page
 
 ![Screenshot 2023-05-11 144139](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/b167cb80-d550-4e94-ad8b-6ab6c60ee89b)
 
-2. After Connecting to the MetaMask Wallet
+### 2. After Connecting to the MetaMask Wallet
 
 ![Screenshot 2023-05-11 144058](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/7aa72d2b-83dc-4dc4-a06e-a89e9bf557f4)
 
-3.Account or Wallet Details
+### 3.Account or Wallet Details
 
 ![Screenshot 2023-05-11 144125](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/4b0cc6f6-3c4c-40bc-8a8f-239350d0523f)
 
-4. File is Selected for Upload
+### 4. File is Selected for Upload
 
 ![Screenshot 2023-05-11 144237](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/21420a28-fd67-4b1a-8588-01597b6cf097)
 
-5. Transaction Initiated
+### 5. Transaction Initiated
 
 ![Screenshot 2023-05-11 144256](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/27e2f52f-231b-4f60-8dd3-3efbdf74f712)
 
