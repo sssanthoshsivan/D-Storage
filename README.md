@@ -2,12 +2,24 @@
 
 <!-- ABOUT THE PROJECT -->
 ## IPFS storage Dapp
+Blockchain-based decentralized storage using IPFS is a novel approach to data storage that
+leverages blockchain technology and the InterPlanetary File System (IPFS) to provide a secure,
+decentralized, and scalable solution, In this system, data is stored on the IPFS network and is protected by the immutability and security
+features of the blockchain network, The decentralized nature of the IPFS network ensures that data is distributed across multiple nodes,
+providing redundancy and reducing the risk of data loss, Furthermore, since the data is encrypted, only authorized users with the IPFS hash can access it,
+providing an additional layer of security
 
-![Capture d’écran 2022-11-27 à 01 51 27](https://user-images.githubusercontent.com/83681204/204114387-e35f4d68-3211-429b-8fdc-f3cb62f5867c.png)
+## Table of Contents
+**1. Softwares Used**
+**2. Prerequisties**
+**3. Installation**
+**4. System Architecture**
+**5. How to run**
+**6. Preview**
+**7. Resources**
+**8. Credits**
 
-This is a decentralized application built on the Ethereum/Polygon blockchain, it works like Dropbox or Google Drive by allowing users to securely store their files on the blockchain using IPFS Technology
-
-### Built With
+### Software Used
 
 * [Solidity](https://docs.soliditylang.org/)
 * [Brownie](https://eth-brownie.readthedocs.io)
@@ -43,8 +55,6 @@ This is a decentralized application built on the Ethereum/Polygon blockchain, it
 </details>
 
 
-<!-- GETTING STARTED -->
-## Getting Started
 
 ### Prerequisites
 
@@ -95,8 +105,6 @@ Please install or have installed the following:
    
    To setup the Polygon Testnet with brownie you'll need an Alchemy account (it's free) and just create a new app on the polygon network
    
-   ![Capture d’écran 2022-01-25 à 00 14 44](https://user-images.githubusercontent.com/83681204/150881084-9b60349e-def0-44d2-bbb2-8ca7e27157c7.png)
-   
    
    After creating the app copy the URL from -view key- and run this: 
    ```sh
@@ -115,10 +123,12 @@ Please install or have installed the following:
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## System Architecture
 
+![Screenshot 2023-05-23 130451](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/a6ea6dcd-b74f-423d-854f-b914a5c63f34)
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## How to Run
 
 ### Contracts
 
@@ -195,24 +205,34 @@ Please install or have installed the following:
    
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Preview
+1.Home Page
+![Screenshot 2023-05-11 144139](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/b167cb80-d550-4e94-ad8b-6ab6c60ee89b)
+2. After Connecting to the MetaMask Wallet
+![Screenshot 2023-05-11 144058](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/7aa72d2b-83dc-4dc4-a06e-a89e9bf557f4)
+3.Account or Wallet Details
+![Screenshot 2023-05-11 144125](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/4b0cc6f6-3c4c-40bc-8a8f-239350d0523f)
+4. File is Selected for Upload
+![Screenshot 2023-05-11 144237](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/21420a28-fd67-4b1a-8588-01597b6cf097)
+5. Transaction Initiated
+![Screenshot 2023-05-11 144256](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/27e2f52f-231b-4f60-8dd3-3efbdf74f712)
+6. Transaction Confirmed, File is Uploaded Successfully
+![Screenshot 2023-05-11 144308](https://github.com/sssanthoshsivan/D-Storage/assets/113821103/25d9f5ff-fc2c-4b7a-ab1b-cb7a8f708469)
 
-<!-- Resources -->
 ## Resources
 
-To learn about Smart Contract and Brownie:
+To learn about Web3, React, Smart Contract and Brownie:
 
+  * [Web3 FAQ by Fireship.io](https://www.youtube.com/watch?v=wHTcrmhskto&t=2s&pp=ygUTZmlyZXNoaXAgYmxvY2tjaGFpbg%3D%3D)
+  * [Netninja React Course](https://www.youtube.com/watch?v=j942wKiXFu8&list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
   * [Patrick Collins FreeCodeCamp Complete Course](https://youtu.be/M576WGiDBdQ)
   * ["Getting Started with Brownie"](https://iamdefinitelyahuman.medium.com/getting-started-with-brownie-part-1-9b2181f4cb99) is a good tutorial to help you familiarize yourself with Brownie.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Credits
+I'm Santhosh Sivan, this project during my computer science degree and i hope you may find it useful, Thank You !
 
-<!-- Contact -->
-## Contact
-
-If you have any question or problem running this project just contact me: aymenMir1001@gmail.com
-
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- LICENSE -->
